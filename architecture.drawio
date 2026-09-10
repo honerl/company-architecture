@@ -1,115 +1,139 @@
-<mxfile host="apps-script">
+<mxfile host="app.diagrams.net" pages="14">
   <diagram name="NTV360" id="page-2">
-    <mxGraphModel dx="1400" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2804" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-
-        <mxCell id="page-2-group-0" value="departments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5a623;opacity=25;strokeColor=#f5a623;verticalAlign=top;align=left;fontSize=12;fontStyle=1;fontColor=#333333;movable=0;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="0" width="540" height="124" as="geometry" />
+        <mxCell id="page-2-group-0" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5a623;opacity=25;strokeColor=#f5a623;verticalAlign=top;align=left;fontSize=12;fontStyle=1;fontColor=#333333;movable=0;connectable=0;" value="departments" vertex="1">
+          <mxGeometry height="124" width="540" x="-20" as="geometry" />
         </mxCell>
         <UserObject label="Users" link="data:page/id,page-3" id="node-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" x="580" y="44" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Devices" link="data:page/id,page-4" id="node-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" x="760" y="44" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Locations" link="data:page/id,page-5" id="node-5">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" x="940" y="44" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Security" link="data:page/id,page-6" id="node-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="0" y="228" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" y="228" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Identity and Access Management" link="data:page/id,page-7" id="node-7">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="228" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" x="180" y="228" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Collaboration &amp; Productivity" link="data:page/id,page-8" id="node-8">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="228" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" x="360" y="228" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Development &amp; Engineering" link="data:page/id,page-9" id="node-9">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="228" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" x="540" y="228" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Other Tools &amp; Services" link="data:page/id,page-10" id="node-10">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="228" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" x="720" y="228" as="geometry" />
+          </mxCell>
         </UserObject>
-        <mxCell id="node-14" value="Internet (HTTPS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="900" y="228" width="140" height="60" as="geometry" />
+        <mxCell id="node-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Internet (HTTPS)" vertex="1">
+          <mxGeometry height="60" width="140" x="900" y="228" as="geometry" />
         </mxCell>
-        <mxCell id="node-15" value="AWS-Production" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="0" y="412" width="140" height="60" as="geometry" />
+        <mxCell id="node-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="AWS-Production" vertex="1">
+          <mxGeometry height="60" width="140" y="412" as="geometry" />
         </mxCell>
-        <mxCell id="node-16" value="Governance &amp; Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="412" width="140" height="60" as="geometry" />
+        <mxCell id="node-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Governance &amp; Operations" vertex="1">
+          <mxGeometry height="60" width="140" x="180" y="412" as="geometry" />
         </mxCell>
-        <mxCell id="node-17" value="People and Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="412" width="140" height="60" as="geometry" />
+        <mxCell id="node-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="People and Premises" vertex="1">
+          <mxGeometry height="60" width="140" x="360" y="412" as="geometry" />
         </mxCell>
-        <mxCell id="node-18" value="On Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="412" width="140" height="60" as="geometry" />
+        <mxCell id="node-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="On Premises" vertex="1">
+          <mxGeometry height="60" width="140" x="540" y="412" as="geometry" />
         </mxCell>
         <UserObject label="Backend" link="data:page/id,page-11" id="node-11">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" y="44" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="IOT" link="data:page/id,page-12" id="node-12">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" x="180" y="44" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Frontend" link="data:page/id,page-13" id="node-13">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1">
+            <mxGeometry height="60" width="140" x="360" y="44" as="geometry" />
+          </mxCell>
         </UserObject>
-        <mxCell id="node-19" value="Remote Access (VPN / Zero Trust)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="412" width="140" height="60" as="geometry" />
+        <mxCell id="node-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Remote Access (VPN / Zero Trust)" vertex="1">
+          <mxGeometry height="60" width="140" x="720" y="412" as="geometry" />
         </mxCell>
-
-        <mxCell id="page-2-edge-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-3" target="node-14">
+        <mxCell id="page-2-edge-0" edge="1" parent="1" source="node-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;libavoidRouting=1;" target="node-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="166" />
+              <mxPoint x="970" y="166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="page-2-edge-1" edge="1" parent="1" source="node-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" target="node-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-4" target="node-14">
+        <mxCell id="page-2-edge-2" edge="1" parent="1" source="node-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" target="node-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-5" target="node-14">
+        <mxCell id="page-2-edge-3" edge="1" parent="1" source="node-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" target="node-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="258.03" />
+              <mxPoint x="160" y="350.03" />
+              <mxPoint x="70" y="350.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="page-2-edge-4" edge="1" parent="1" source="node-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;libavoidRouting=1;" target="node-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="350" />
+              <mxPoint x="70" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="page-2-edge-5" edge="1" parent="1" source="node-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;libavoidRouting=1;" target="node-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="350" />
+              <mxPoint x="70" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="page-2-edge-6" edge="1" parent="1" source="node-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;libavoidRouting=1;" target="node-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="258" />
+              <mxPoint x="700" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="page-2-edge-7" edge="1" parent="1" source="node-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" target="node-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-7" target="node-15">
+        <mxCell id="page-2-edge-8" edge="1" parent="1" source="node-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" target="node-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-8" target="node-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="page-2-edge-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-9" target="node-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="page-2-edge-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-10" target="node-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="page-2-edge-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-15" target="node-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="page-2-edge-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-17" target="node-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="page-2-edge-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-18" target="node-17">
+        <mxCell id="page-2-edge-9" edge="1" parent="1" source="node-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" target="node-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
@@ -122,10 +146,9 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Users" link="data:page/id,page-2" id="page-3-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="270" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <mxCell id="node-20" value="PH Office Employees (~50)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
         </mxCell>
@@ -150,7 +173,6 @@
         <mxCell id="page-3-parentedge-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-3-parentbox" target="node-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -161,10 +183,9 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Devices" link="data:page/id,page-2" id="page-4-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="270" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <mxCell id="node-24" value="Company Laptops (Managed)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
         </mxCell>
@@ -189,7 +210,6 @@
         <mxCell id="page-4-parentedge-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-4-parentbox" target="node-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -200,10 +220,9 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Locations" link="data:page/id,page-2" id="page-5-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="270" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <mxCell id="node-28" value="Cebu Office (Primary)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
         </mxCell>
@@ -228,7 +247,6 @@
         <mxCell id="page-5-parentedge-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-5-parentbox" target="node-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -239,10 +257,9 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Security" link="data:page/id,page-2" id="page-6-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="450" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <mxCell id="node-32" value="Multi-Factor Authentication (MFA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
         </mxCell>
@@ -285,7 +302,6 @@
         <mxCell id="page-6-parentedge-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-6-parentbox" target="node-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -296,17 +312,15 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Identity and Access Management" link="data:page/id,page-2" id="page-7-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="0" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="0" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <mxCell id="node-39" value="Microsoft Entra ID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="page-7-parentedge-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-7-parentbox" target="node-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -317,10 +331,9 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Collaboration &amp; Productivity" link="data:page/id,page-2" id="page-8-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="360" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <mxCell id="node-40" value="Outlook (Email)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
         </mxCell>
@@ -351,7 +364,6 @@
         <mxCell id="page-8-parentedge-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-8-parentbox" target="node-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -362,10 +374,9 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Development &amp; Engineering" link="data:page/id,page-2" id="page-9-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="360" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <mxCell id="node-45" value="GitHub (Source Control)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
         </mxCell>
@@ -396,7 +407,6 @@
         <mxCell id="page-9-parentedge-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-9-parentbox" target="node-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -407,10 +417,9 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Other Tools &amp; Services" link="data:page/id,page-2" id="page-10-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="270" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <mxCell id="node-50" value="Notion (Knowledge Base)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
         </mxCell>
@@ -435,7 +444,6 @@
         <mxCell id="page-10-parentedge-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-10-parentbox" target="node-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -446,8 +454,8 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Backend" link="data:page/id,page-2" id="page-11-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="330" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="page-11-group-0" value="SSO Services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7ed321;opacity=25;strokeColor=#7ed321;verticalAlign=top;align=left;fontSize=12;fontStyle=1;fontColor=#333333;movable=0;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="0" width="360" height="124" as="geometry" />
@@ -460,23 +468,23 @@
         </mxCell>
         <UserObject label="SSO Admin Portal (API)" stack="NestJS, TypeScript" owner="John" id="node-54">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Argus Connect" stack="Node.js, TypeScript" owner="John" id="node-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="180" y="44" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Web Scanner BFF" stack="NestJS, Supabase" id="node-56">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="400" y="44" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Passbolt POC" stack="CakePHP" id="node-57">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="620" y="44" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="page-11-parentedge-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-11-parentbox" target="page-11-group-0">
           <mxGeometry relative="1" as="geometry" />
@@ -500,14 +508,13 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ IOT" link="data:page/id,page-2" id="page-12-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="90" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <UserObject label="Multi-Screen Monitor" link="data:page/id,page-58" stack="Electron" id="node-58">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="node-59" value="Device Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="44" width="140" height="60" as="geometry" />
@@ -531,19 +538,17 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Multi-Screen Monitor" link="data:page/id,page-12" id="page-58-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="0" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="0" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
-
         <UserObject label="PlaySentry" stack="CDP sidecar" id="node-60">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="page-58-parentedge-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-58-parentbox" target="node-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -554,8 +559,8 @@
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Frontend" link="data:page/id,page-2" id="page-13-parentbox">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="130" y="-160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="page-13-group-0" value="SSO Services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#50e3c2;opacity=25;strokeColor=#50e3c2;verticalAlign=top;align=left;fontSize=12;fontStyle=1;fontColor=#333333;movable=0;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="0" width="180" height="124" as="geometry" />
@@ -565,13 +570,13 @@
         </mxCell>
         <UserObject label="SSO Admin Portal (UI)" stack="Angular" id="node-61">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Web Scanner UI" stack="Angular" id="node-62">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="44" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="220" y="44" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="page-13-parentedge-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-13-parentbox" target="page-13-group-0">
           <mxGeometry relative="1" as="geometry" />
@@ -579,7 +584,6 @@
         <mxCell id="page-13-parentedge-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-13-parentbox" target="page-13-group-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
@@ -590,13 +594,13 @@
         <mxCell id="1" parent="0" />
         <UserObject label="NTV360" link="data:page/id,page-2" id="fullview-node-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4230" y="0" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="4230" y="0" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Users" link="data:page/id,page-3" id="fullview-node-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="270" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-20" value="PH Office Employees (~50)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="320" width="140" height="60" as="geometry" />
@@ -612,8 +616,8 @@
         </mxCell>
         <UserObject label="Devices" link="data:page/id,page-4" id="fullview-node-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="990" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="990" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-24" value="Company Laptops (Managed)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="320" width="140" height="60" as="geometry" />
@@ -629,8 +633,8 @@
         </mxCell>
         <UserObject label="Locations" link="data:page/id,page-5" id="fullview-node-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="1710" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-28" value="Cebu Office (Primary)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1440" y="320" width="140" height="60" as="geometry" />
@@ -646,8 +650,8 @@
         </mxCell>
         <UserObject label="Security" link="data:page/id,page-6" id="fullview-node-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="2700" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-32" value="Multi-Factor Authentication (MFA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2160" y="320" width="140" height="60" as="geometry" />
@@ -672,16 +676,16 @@
         </mxCell>
         <UserObject label="Identity and Access Management" link="data:page/id,page-7" id="fullview-node-7">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3420" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="3420" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-39" value="Microsoft Entra ID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="3420" y="320" width="140" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Collaboration &amp; Productivity" link="data:page/id,page-8" id="fullview-node-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="3960" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-40" value="Outlook (Email)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="3600" y="320" width="140" height="60" as="geometry" />
@@ -700,8 +704,8 @@
         </mxCell>
         <UserObject label="Development &amp; Engineering" link="data:page/id,page-9" id="fullview-node-9">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4860" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="4860" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-45" value="GitHub (Source Control)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="4500" y="320" width="140" height="60" as="geometry" />
@@ -720,8 +724,8 @@
         </mxCell>
         <UserObject label="Other Tools &amp; Services" link="data:page/id,page-10" id="fullview-node-10">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5670" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="5670" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-50" value="Notion (Knowledge Base)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="5400" y="320" width="140" height="60" as="geometry" />
@@ -752,8 +756,8 @@
         </mxCell>
         <UserObject label="Backend" link="data:page/id,page-11" id="fullview-node-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7290" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="7290" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-54" value="SSO Admin Portal (API)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="7020" y="320" width="140" height="60" as="geometry" />
@@ -769,13 +773,13 @@
         </mxCell>
         <UserObject label="IOT" link="data:page/id,page-12" id="fullview-node-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7830" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="7830" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <UserObject label="Multi-Screen Monitor" link="data:page/id,page-58" id="fullview-node-58">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7740" y="320" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="7740" y="320" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-60" value="PlaySentry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="7740" y="480" width="140" height="60" as="geometry" />
@@ -785,8 +789,8 @@
         </mxCell>
         <UserObject label="Frontend" link="data:page/id,page-13" id="fullview-node-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="8190" y="160" width="140" height="60" as="geometry" />
-        </mxCell>
+            <mxGeometry x="8190" y="160" width="140" height="60" as="geometry" />
+          </mxCell>
         </UserObject>
         <mxCell id="fullview-node-61" value="SSO Admin Portal (UI)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="8100" y="320" width="140" height="60" as="geometry" />
