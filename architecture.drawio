@@ -324,44 +324,64 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Collaboration &amp; Productivity" id="page-8">
-    <mxGraphModel dx="1400" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1404" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Collaboration &amp; Productivity" link="data:page/id,page-2" id="page-8-parentbox">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-            <mxGeometry x="360" y="-160" width="140" height="60" as="geometry" />
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1">
+            <mxGeometry height="60" width="140" x="360" y="-140" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="node-40" value="Outlook (Email)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
+        <mxCell id="node-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Outlook (Email)" vertex="1">
+          <mxGeometry height="60" width="140" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="node-41" value="Teams (Chat/Meetings)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="44" width="140" height="60" as="geometry" />
+        <mxCell id="node-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Teams (Chat/Meetings)" vertex="1">
+          <mxGeometry height="60" width="140" x="180" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="node-42" value="SharePoint (Documents)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="44" width="140" height="60" as="geometry" />
+        <mxCell id="node-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="SharePoint (Documents)" vertex="1">
+          <mxGeometry height="60" width="140" x="360" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="node-43" value="OneDrive (File Storage)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="44" width="140" height="60" as="geometry" />
+        <mxCell id="node-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="OneDrive (File Storage)" vertex="1">
+          <mxGeometry height="60" width="140" x="540" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="node-44" value="Planner (Tasks)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="44" width="140" height="60" as="geometry" />
+        <mxCell id="node-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Planner (Tasks)" vertex="1">
+          <mxGeometry height="60" width="140" x="720" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="page-8-parentedge-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-8-parentbox" target="node-40">
+        <mxCell id="page-8-parentedge-0" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="node-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="-20" />
+              <mxPoint x="70" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="page-8-parentedge-1" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="node-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="-20" />
+              <mxPoint x="250" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="page-8-parentedge-2" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;libavoidRouting=1;" target="node-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-8-parentedge-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-8-parentbox" target="node-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="page-8-parentedge-3" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="node-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="-20" />
+              <mxPoint x="610" y="-20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="page-8-parentedge-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-8-parentbox" target="node-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="page-8-parentedge-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-8-parentbox" target="node-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="page-8-parentedge-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-8-parentbox" target="node-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="page-8-parentedge-4" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="node-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="-20" />
+              <mxPoint x="790" y="-20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -587,7 +607,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Full Company Architecture" id="page-full-overview">
-    <mxGraphModel dx="1404" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2006" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
