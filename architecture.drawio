@@ -66,19 +66,19 @@
         <mxCell id="node-14" value="Internet (HTTPS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="900" y="228" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="node-15" value="Remote Access (VPN / Zero Trust)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="node-15" value="AWS-Production" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="0" y="412" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="node-16" value="AWS-Production" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="node-16" value="Governance &amp; Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="412" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="node-17" value="Governance &amp; Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="node-17" value="People and Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="412" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="node-18" value="People and Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="node-18" value="On Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="412" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="node-19" value="On Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="node-19" value="Remote Access (VPN / Zero Trust)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="412" width="140" height="60" as="geometry" />
         </mxCell>
 
@@ -103,28 +103,28 @@
         <mxCell id="page-2-edge-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-6" target="node-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-7" target="node-16">
+        <mxCell id="page-2-edge-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-7" target="node-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-8" target="node-16">
+        <mxCell id="page-2-edge-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-8" target="node-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-9" target="node-16">
+        <mxCell id="page-2-edge-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-9" target="node-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-10" target="node-19">
+        <mxCell id="page-2-edge-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-10" target="node-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="page-2-edge-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-14" target="node-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-16" target="node-17">
+        <mxCell id="page-2-edge-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-15" target="node-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-18" target="node-19">
+        <mxCell id="page-2-edge-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-17" target="node-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-2-edge-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-19" target="node-18">
+        <mxCell id="page-2-edge-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="node-18" target="node-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
@@ -797,19 +797,19 @@
         <mxCell id="fullview-node-14" value="Internet (HTTPS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="7560" y="160" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-node-15" value="Remote Access (VPN / Zero Trust)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fullview-node-15" value="AWS-Production" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="7740" y="160" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-node-16" value="AWS-Production" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fullview-node-16" value="Governance &amp; Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="7920" y="160" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-node-17" value="Governance &amp; Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fullview-node-17" value="People and Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="8100" y="160" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-node-18" value="People and Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fullview-node-18" value="On Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="8280" y="160" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-node-19" value="On Premises" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fullview-node-19" value="Remote Access (VPN / Zero Trust)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="8460" y="160" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fullview-tree-edge-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="fullview-node-2" target="fullview-node-3">
@@ -1013,28 +1013,28 @@
         <mxCell id="fullview-extra-edge-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-6" target="fullview-node-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-extra-edge-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-7" target="fullview-node-16">
+        <mxCell id="fullview-extra-edge-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-7" target="fullview-node-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-extra-edge-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-8" target="fullview-node-16">
+        <mxCell id="fullview-extra-edge-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-8" target="fullview-node-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-extra-edge-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-9" target="fullview-node-16">
+        <mxCell id="fullview-extra-edge-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-9" target="fullview-node-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-extra-edge-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-10" target="fullview-node-19">
+        <mxCell id="fullview-extra-edge-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-10" target="fullview-node-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fullview-extra-edge-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-14" target="fullview-node-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-extra-edge-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-16" target="fullview-node-17">
+        <mxCell id="fullview-extra-edge-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-15" target="fullview-node-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-extra-edge-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-18" target="fullview-node-19">
+        <mxCell id="fullview-extra-edge-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-17" target="fullview-node-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fullview-extra-edge-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-19" target="fullview-node-18">
+        <mxCell id="fullview-extra-edge-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-18" target="fullview-node-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fullview-extra-edge-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;strokeColor=#999999;" edge="1" parent="1" source="fullview-node-54" target="fullview-node-55">
