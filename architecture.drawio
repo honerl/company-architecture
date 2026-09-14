@@ -873,37 +873,37 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Other Tools &amp; Services" id="page-10">
-    <mxGraphModel dx="1400" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1073" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="↑ Other Tools &amp; Services" link="data:page/id,page-2" id="page-10-parentbox">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-            <mxGeometry x="270" y="-160" width="140" height="60" as="geometry" />
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1">
+            <mxGeometry height="60" width="140" x="270" y="-160" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="node-49" value="Notion (Knowledge Base)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
+        <mxCell id="node-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Confluence (Knowledge Base)" vertex="1">
+          <mxGeometry height="60" width="140" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="node-50" value="Passbolt (Secrets Management)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="44" width="140" height="60" as="geometry" />
+        <mxCell id="node-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Passbolt (Secrets Management)" vertex="1">
+          <mxGeometry height="60" width="140" x="180" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="node-51" value="N8N (Automation)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="44" width="140" height="60" as="geometry" />
+        <mxCell id="node-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="N8N (Automation)" vertex="1">
+          <mxGeometry height="60" width="140" x="360" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="node-52" value="Monitoring (Logs/Metrics)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="44" width="140" height="60" as="geometry" />
+        <mxCell id="node-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Monitoring (Logs/Metrics)" vertex="1">
+          <mxGeometry height="60" width="140" x="540" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="page-10-parentedge-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-10-parentbox" target="node-49">
+        <mxCell id="page-10-parentedge-0" edge="1" parent="1" source="page-10-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="node-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-10-parentedge-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-10-parentbox" target="node-50">
+        <mxCell id="page-10-parentedge-1" edge="1" parent="1" source="page-10-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="node-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-10-parentedge-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-10-parentbox" target="node-51">
+        <mxCell id="page-10-parentedge-2" edge="1" parent="1" source="page-10-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="node-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-10-parentedge-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-10-parentbox" target="node-52">
+        <mxCell id="page-10-parentedge-3" edge="1" parent="1" source="page-10-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" target="node-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
