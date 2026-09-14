@@ -407,7 +407,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZsmhyPZdYSqTTcnEYRY6" name="Quality Assurance">
-    <mxGraphModel dx="2995" dy="2397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2689" dy="2211" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,9 +452,11 @@
             <mxPoint x="857.1764705882356" y="268.52941176470586" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFMVXntRJo5OiC7wZ05e-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Quality Assurance" vertex="1">
-          <mxGeometry height="95" width="179" x="438" y="-39" as="geometry" />
-        </mxCell>
+        <UserObject label="Quality Assurance" link="data:page/id,page-2" id="VFMVXntRJo5OiC7wZ05e-1">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1">
+            <mxGeometry height="95" width="179" x="438" y="-39" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="VFMVXntRJo5OiC7wZ05e-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Playwright&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(Automated Testing)&lt;/div&gt;" vertex="1">
           <mxGeometry height="95" width="179" x="606" y="441" as="geometry" />
         </mxCell>
@@ -522,7 +524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8ySbqGqDWqu01XN1hOA0" name="Graphics and Design">
-    <mxGraphModel dx="2137" dy="1878" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="4527" dy="3323" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -576,9 +578,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8gMSERxsH2_IFottunEF-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;GRAPHICS &amp;amp; DESIGN&lt;/b&gt;" vertex="1">
-          <mxGeometry height="116" width="220" x="167" y="-340" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;GRAPHICS &amp;amp; DESIGN&lt;/b&gt;" link="data:page/id,page-2" id="8gMSERxsH2_IFottunEF-1">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1">
+            <mxGeometry height="116" width="220" x="167" y="-340" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="8gMSERxsH2_IFottunEF-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Canva" vertex="1">
           <mxGeometry height="96" width="142" x="-163" y="166" as="geometry" />
         </mxCell>
@@ -687,15 +691,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6WV5mddbK28N4bZNNE3t" name="AI Tools">
-    <mxGraphModel dx="2145" dy="1297" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pgEOETkxmqaZ21aoIUFS-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="208" width="336" x="389" y="382" as="geometry" />
+          <mxGeometry height="208" width="336" x="365" y="379" as="geometry" />
         </mxCell>
         <mxCell id="pgEOETkxmqaZ21aoIUFS-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="408" width="163" x="154" y="320" as="geometry" />
+          <mxGeometry height="407" width="163" x="154" y="320" as="geometry" />
         </mxCell>
         <mxCell id="pgEOETkxmqaZ21aoIUFS-10" edge="1" parent="1" source="pgEOETkxmqaZ21aoIUFS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pgEOETkxmqaZ21aoIUFS-9">
           <mxGeometry relative="1" as="geometry" />
@@ -703,29 +707,37 @@
         <mxCell id="pgEOETkxmqaZ21aoIUFS-13" edge="1" parent="1" source="pgEOETkxmqaZ21aoIUFS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pgEOETkxmqaZ21aoIUFS-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pgEOETkxmqaZ21aoIUFS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI TOOLS" vertex="1">
-          <mxGeometry height="60" width="120" x="365" y="204" as="geometry" />
-        </mxCell>
+        <UserObject label="AI TOOLS" link="data:page/id,page-2" id="pgEOETkxmqaZ21aoIUFS-1">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="365" y="204" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="pgEOETkxmqaZ21aoIUFS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gemini AI" vertex="1">
-          <mxGeometry height="60" width="120" x="175" y="357" as="geometry" />
+          <mxGeometry height="60" width="120" x="175.5" y="372" as="geometry" />
         </mxCell>
         <mxCell id="pgEOETkxmqaZ21aoIUFS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ChatGPT" vertex="1">
-          <mxGeometry height="60" width="120" x="175" y="450" as="geometry" />
+          <mxGeometry height="60" width="120" x="175.5" y="465" as="geometry" />
         </mxCell>
         <mxCell id="pgEOETkxmqaZ21aoIUFS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Claude/Claude Code" vertex="1">
-          <mxGeometry height="60" width="120" x="175" y="543" as="geometry" />
+          <mxGeometry height="60" width="120" x="175.5" y="558" as="geometry" />
         </mxCell>
         <mxCell id="pgEOETkxmqaZ21aoIUFS-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OpenClaw" vertex="1">
-          <mxGeometry height="60" width="120" x="433" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="385" y="460" as="geometry" />
         </mxCell>
         <mxCell id="pgEOETkxmqaZ21aoIUFS-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OpenCode" vertex="1">
-          <mxGeometry height="60" width="120" x="435" y="498" as="geometry" />
+          <mxGeometry height="60" width="120" x="541" y="507" as="geometry" />
         </mxCell>
         <mxCell id="pgEOETkxmqaZ21aoIUFS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PI Coding Agent" vertex="1">
-          <mxGeometry height="60" width="120" x="579" y="451" as="geometry" />
+          <mxGeometry height="60" width="120" x="541" y="425" as="geometry" />
         </mxCell>
         <mxCell id="pgEOETkxmqaZ21aoIUFS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Google Flow" vertex="1">
-          <mxGeometry height="60" width="120" x="175" y="636" as="geometry" />
+          <mxGeometry height="60" width="120" x="175.5" y="651" as="geometry" />
+        </mxCell>
+        <mxCell id="vTmKLahhyB2J4tIArXKq-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Agent Wrapper" vertex="1">
+          <mxGeometry height="30" width="91" x="385" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vTmKLahhyB2J4tIArXKq-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Services Utilized" vertex="1">
+          <mxGeometry height="30" width="98" x="159" y="327" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
