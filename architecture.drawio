@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" pages="16">
+<mxfile host="app.diagrams.net" pages="17">
   <diagram name="NTV360" id="page-2">
-    <mxGraphModel dx="2013" dy="1270" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3545" dy="2197" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,7 @@
         <mxCell id="page-2-edge-13" edge="1" parent="1" source="node-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#999999;startArrow=classic;startFill=1;libavoidRouting=1;fontColor=light-dark(#333333,#FFFFFF);" target="node-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Quality Assurance" link="data:page/id,page-13" id="WL1e5PhHVZt4aOtMN9Ke-3">
+        <UserObject label="Quality Assurance" link="data:page/id,ZsmhyPZdYSqTTcnEYRY6" id="WL1e5PhHVZt4aOtMN9Ke-3">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=light-dark(#333333,#FFFFFF);strokeColor=none;" vertex="1">
             <mxGeometry height="60" width="140" x="-250" y="332" as="geometry" />
           </mxCell>
@@ -148,7 +148,7 @@
             <mxGeometry height="60" width="140" x="-250" y="524" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Graphics and Design" link="data:page/id,page-13" id="WL1e5PhHVZt4aOtMN9Ke-8">
+        <UserObject label="Graphics and Design" link="data:page/id,8ySbqGqDWqu01XN1hOA0" id="WL1e5PhHVZt4aOtMN9Ke-8">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=light-dark(#333333,#FFFFFF);strokeColor=none;" vertex="1">
             <mxGeometry height="60" width="140" x="-250" y="620" as="geometry" />
           </mxCell>
@@ -269,7 +269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Devices" id="page-4">
-    <mxGraphModel dx="2687" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2288" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -278,16 +278,16 @@
             <mxGeometry height="60" width="140" x="60" y="-160" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="node-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Company Laptops (Managed)" vertex="1">
+        <mxCell id="node-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Company TV&lt;br&gt;(Managed)" vertex="1">
           <mxGeometry height="60" width="140" x="-210" y="44" as="geometry" />
         </mxCell>
         <mxCell id="node-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Company Desktops (Managed)" vertex="1">
           <mxGeometry height="60" width="140" x="-30" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="node-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Mobile Devices (Managed/BYOD)" vertex="1">
+        <mxCell id="node-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Company Desktops (Managed)" vertex="1">
           <mxGeometry height="60" width="140" x="150" y="44" as="geometry" />
         </mxCell>
-        <mxCell id="node-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="IoT Devices (Kiosks/Players)" vertex="1">
+        <mxCell id="node-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="IoT Devices (Raspberry Pi)" vertex="1">
           <mxGeometry height="60" width="140" x="330" y="44" as="geometry" />
         </mxCell>
         <mxCell id="page-4-parentedge-0" edge="1" parent="1" source="page-4-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="node-23">
@@ -301,6 +301,15 @@
         </mxCell>
         <mxCell id="page-4-parentedge-3" edge="1" parent="1" source="page-4-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="node-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjy7q3p6kCn6ezGow-HR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="On Premise Servers" vertex="1">
+          <mxGeometry height="60" width="140" x="-110" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjy7q3p6kCn6ezGow-HR-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Keyboards" vertex="1">
+          <mxGeometry height="60" width="140" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Wjy7q3p6kCn6ezGow-HR-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Mouse" vertex="1">
+          <mxGeometry height="60" width="140" x="240" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -677,6 +686,50 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="6WV5mddbK28N4bZNNE3t" name="AI Tools">
+    <mxGraphModel dx="2145" dy="1297" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="208" width="336" x="389" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="408" width="163" x="154" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-10" edge="1" parent="1" source="pgEOETkxmqaZ21aoIUFS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pgEOETkxmqaZ21aoIUFS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-13" edge="1" parent="1" source="pgEOETkxmqaZ21aoIUFS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pgEOETkxmqaZ21aoIUFS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI TOOLS" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gemini AI" vertex="1">
+          <mxGeometry height="60" width="120" x="175" y="357" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ChatGPT" vertex="1">
+          <mxGeometry height="60" width="120" x="175" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Claude/Claude Code" vertex="1">
+          <mxGeometry height="60" width="120" x="175" y="543" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OpenClaw" vertex="1">
+          <mxGeometry height="60" width="120" x="433" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OpenCode" vertex="1">
+          <mxGeometry height="60" width="120" x="435" y="498" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PI Coding Agent" vertex="1">
+          <mxGeometry height="60" width="120" x="579" y="451" as="geometry" />
+        </mxCell>
+        <mxCell id="pgEOETkxmqaZ21aoIUFS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Google Flow" vertex="1">
+          <mxGeometry height="60" width="120" x="175" y="636" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Identity and Access Management" id="page-7">
     <mxGraphModel dx="2473" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
@@ -685,9 +738,12 @@
         <mxCell id="ZxkTzOVYck1aW5aLtNxl-2" edge="1" parent="1" source="page-7-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZxkTzOVYck1aW5aLtNxl-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LV4X6PIn9NCuTI3lCLf1-2" edge="1" parent="1" source="page-7-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LV4X6PIn9NCuTI3lCLf1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="↑ Identity and Access Management" link="data:page/id,page-2" id="page-7-parentbox">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1">
-            <mxGeometry height="60" width="140" x="50" y="-160" as="geometry" />
+            <mxGeometry height="60" width="140" x="30" y="-120" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="node-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Microsoft Entra ID" vertex="1">
@@ -697,28 +753,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZxkTzOVYck1aW5aLtNxl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="AWS IAM Identity Center" vertex="1">
-          <mxGeometry height="60" width="140" x="140" y="44" as="geometry" />
+          <mxGeometry height="60" width="140" x="30" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LV4X6PIn9NCuTI3lCLf1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Per app User Management" vertex="1">
+          <mxGeometry height="60" width="140" x="150" y="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Collaboration &amp; Productivity" id="page-8">
-    <mxGraphModel dx="1073" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="613" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YP3RurOLxz79z3mg56Rw-2" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="YP3RurOLxz79z3mg56Rw-1">
+        <mxCell id="YP3RurOLxz79z3mg56Rw-2" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;libavoidRouting=1;" target="YP3RurOLxz79z3mg56Rw-1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="-27.96" />
-              <mxPoint x="160" y="-27.96" />
-            </Array>
             <mxPoint x="420" y="-80" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="↑ Collaboration &amp; Productivity" link="data:page/id,page-2" id="page-8-parentbox">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1">
-            <mxGeometry height="60" width="140" x="360" y="-160" as="geometry" />
+            <mxGeometry height="60" width="140" x="180" y="-180" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="node-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Outlook (Email)" vertex="1">
@@ -731,10 +786,10 @@
           <mxGeometry height="60" width="140" x="360" y="44" as="geometry" />
         </mxCell>
         <mxCell id="node-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="OneDrive (File Storage)" vertex="1">
-          <mxGeometry height="60" width="140" x="540" y="44" as="geometry" />
+          <mxGeometry height="60" width="140" x="270" y="150" as="geometry" />
         </mxCell>
         <mxCell id="node-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Planner (Tasks)" vertex="1">
-          <mxGeometry height="60" width="140" x="720" y="44" as="geometry" />
+          <mxGeometry height="60" width="140" x="450" y="150" as="geometry" />
         </mxCell>
         <mxCell id="page-8-parentedge-0" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;libavoidRouting=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="node-39">
           <mxGeometry relative="1" as="geometry" />
@@ -742,13 +797,18 @@
         <mxCell id="page-8-parentedge-1" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;libavoidRouting=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="node-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-8-parentedge-2" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;libavoidRouting=1;" target="node-41">
+        <mxCell id="page-8-parentedge-2" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;libavoidRouting=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="node-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="page-8-parentedge-3" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;libavoidRouting=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="node-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="page-8-parentedge-3" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;libavoidRouting=1;" target="node-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="-38" />
+              <mxPoint x="340" y="-38" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="page-8-parentedge-4" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;libavoidRouting=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="node-43">
+        <mxCell id="page-8-parentedge-4" edge="1" parent="1" source="page-8-parentbox" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;libavoidRouting=1;" target="node-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YP3RurOLxz79z3mg56Rw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" value="Slack" vertex="1">
