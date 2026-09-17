@@ -993,27 +993,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Multi-Screen Monitor" id="page-57">
-    <mxGraphModel dx="1400" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <UserObject label="↑ Multi-Screen Monitor" link="data:page/id,page-12" id="page-57-parentbox">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#455a64;fontColor=#ffffff;strokeColor=none;fontStyle=1;" vertex="1" parent="1">
-            <mxGeometry x="0" y="-160" width="140" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="PlaySentry" stack="CDP sidecar" id="node-59">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-            <mxGeometry x="0" y="44" width="140" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="page-57-parentedge-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;" edge="1" parent="1" source="page-57-parentbox" target="node-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram name="Frontend" id="page-13">
     <mxGraphModel dx="1400" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1723,6 +1702,120 @@
               <mxPoint x="7090" y="304" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nyRTmuJQSL1FplSji3Ik" name="DevOps">
+    <mxGraphModel dx="2364" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-30" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="300" x="270" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-16" parent="8e9pZeWRtgZ_NeooDORh-30" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-6" parent="8e9pZeWRtgZ_NeooDORh-30" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;ECS&lt;div&gt;(AWS)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-7" parent="8e9pZeWRtgZ_NeooDORh-30" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Docker&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-31" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="450" x="-20" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-17" parent="8e9pZeWRtgZ_NeooDORh-31" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="450" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-8" parent="8e9pZeWRtgZ_NeooDORh-31" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;AWS&lt;br&gt;CodePipeline" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-9" parent="8e9pZeWRtgZ_NeooDORh-31" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;GitHub&lt;br&gt;Actions" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-10" parent="8e9pZeWRtgZ_NeooDORh-31" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Forgejo&lt;br&gt;Actions" vertex="1">
+          <mxGeometry height="80" width="120" x="300" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-29" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="300" x="630" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-15" parent="8e9pZeWRtgZ_NeooDORh-29" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-4" parent="8e9pZeWRtgZ_NeooDORh-29" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Terraform" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-5" parent="8e9pZeWRtgZ_NeooDORh-29" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Cloud Formation&lt;div&gt;(AWS)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-19" edge="1" parent="1" source="8e9pZeWRtgZ_NeooDORh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;libavoidRouting=1;" target="8e9pZeWRtgZ_NeooDORh-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="155" />
+              <mxPoint x="130" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-20" edge="1" parent="1" source="8e9pZeWRtgZ_NeooDORh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;libavoidRouting=1;" target="8e9pZeWRtgZ_NeooDORh-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="155" />
+              <mxPoint x="780" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-21" edge="1" parent="1" source="8e9pZeWRtgZ_NeooDORh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8e9pZeWRtgZ_NeooDORh-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-22" edge="1" parent="1" source="8e9pZeWRtgZ_NeooDORh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;libavoidRouting=1;" target="8e9pZeWRtgZ_NeooDORh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-23" edge="1" parent="1" source="8e9pZeWRtgZ_NeooDORh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8e9pZeWRtgZ_NeooDORh-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="400.06" />
+              <mxPoint x="780" y="400.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DevOps" vertex="1">
+          <mxGeometry height="100" width="200" x="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AWS Secrets Manager" vertex="1">
+          <mxGeometry height="80" width="120" x="-70" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-28" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="300" x="-20" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-14" parent="8e9pZeWRtgZ_NeooDORh-28" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-2" parent="8e9pZeWRtgZ_NeooDORh-28" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;AWS" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-3" parent="8e9pZeWRtgZ_NeooDORh-28" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Azure" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-32" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="140" width="300" x="630" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-18" parent="8e9pZeWRtgZ_NeooDORh-32" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-11" parent="8e9pZeWRtgZ_NeooDORh-32" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;CloudWatch&lt;div&gt;(AWS)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-12" parent="8e9pZeWRtgZ_NeooDORh-32" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Datadog" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8e9pZeWRtgZ_NeooDORh-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Microsoft Entra ID&lt;div&gt;(In Development)&lt;/div&gt;&lt;div&gt;(Azure)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="-230" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
