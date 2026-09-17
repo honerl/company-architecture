@@ -1788,7 +1788,7 @@
           <mxGeometry height="100" width="200" x="320" y="30" as="geometry" />
         </mxCell>
         <mxCell id="8e9pZeWRtgZ_NeooDORh-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AWS Secrets Manager" vertex="1">
-          <mxGeometry height="80" width="120" x="-70" y="450" as="geometry" />
+          <mxGeometry height="80" width="120" y="440" as="geometry" />
         </mxCell>
         <mxCell id="8e9pZeWRtgZ_NeooDORh-28" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="140" width="300" x="-20" y="180" as="geometry" />
@@ -1815,7 +1815,7 @@
           <mxGeometry height="80" width="120" x="160" y="50" as="geometry" />
         </mxCell>
         <mxCell id="8e9pZeWRtgZ_NeooDORh-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Microsoft Entra ID&lt;div&gt;(In Development)&lt;/div&gt;&lt;div&gt;(Azure)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="-230" y="450" as="geometry" />
+          <mxGeometry height="80" width="120" x="-160" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
